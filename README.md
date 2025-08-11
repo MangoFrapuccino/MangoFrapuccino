@@ -1,9 +1,11 @@
-# ¡Hola! 👋 Soy Vicente Cuitiño  
+# ¡Hello! 👋 I'm Vicente Cuitiño  
 
-💻 Estudiante de **Licenciatura en Ingeniería en Ciencias de la Computación** en la **Pontificia Universidad Católica**.  
-He aprendido diversas tecnologías a lo largo de mi paso por la carrera y siempre estoy feliz de agrandar esta colección.  
+## 👋 About Me
 
-## 🛠 Tecnologías y Herramientas
+- 💬 Native Spanish speaker & C1-level English.  
+- 🎓 Computer Science student at Pontificia Universidad Católica de Chile.  
+- 🏆 Participant in two hackathons during my first year — winner of the Accenture Hackathon.  
+- 🤝 Coordinator at **Open Source eUC 2025**.
 
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 - ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -21,9 +23,16 @@ He aprendido diversas tecnologías a lo largo de mi paso por la carrera y siempr
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Intentare mantener el perfil actualizado con los proyectos que avance!
-**
-## Recuerda tomar agua!! 
+**Will try to keep this updated!**
+
+## Contact info:
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/MangoFrapuccino)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Mangofrapuccino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vicentecuitiño)
+
+## Remember to drink water!! 
+
                                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣞⣡⡴⠞⠹⣆⠀⠀⢀⡤⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠒⢄⠀⠀⢀⢮⢏⠍⠛⡙⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣧⠲⠐⣄⢻⣦⠔⢉⡴⢾⡿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⣄⠀⠑⢤⢮⠏⡜⢀⣜⡝⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⡀⠈⠂⢻⣯⢋⢜⡽⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⠀⠀⠈⠹⣿⣷⡄⢠⢇⠞⠀⢮⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
