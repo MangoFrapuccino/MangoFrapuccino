@@ -23,7 +23,7 @@ He aprendido diversas tecnologías a lo largo de mi paso por la carrera y siempr
 
 **Intentare mantener el perfil actualizado con los proyectos que avance!
 **
-                                  ## Recuerda tomar agua!! 
+## Recuerda tomar agua!! 
                                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣞⣡⡴⠞⠹⣆⠀⠀⢀⡤⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠒⢄⠀⠀⢀⢮⢏⠍⠛⡙⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣧⠲⠐⣄⢻⣦⠔⢉⡴⢾⡿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⣄⠀⠑⢤⢮⠏⡜⢀⣜⡝⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢧⡀⠈⠂⢻⣯⢋⢜⡽⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⠀⠀⠈⠹⣿⣷⡄⢠⢇⠞⠀⢮⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
