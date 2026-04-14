@@ -5,7 +5,6 @@
 - 💬 Native Spanish speaker & C1-level English.  
 - 🎓 Computer Science student at Pontificia Universidad Católica de Chile.  
 - 🏆 Participant in two hackathons during my first year — winner of the Accenture Hackathon.  
-- 🤝 Coordinator at **Open Source eUC 2025**.
 
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 - ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
